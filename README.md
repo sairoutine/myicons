@@ -1,2 +1,2 @@
 # myicons
-my icons
+my SNS icons
